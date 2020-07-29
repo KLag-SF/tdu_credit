@@ -25,4 +25,4 @@
 
 ## 謝辞
 
-- "UEC_GPAfilter"(https://github.com/ruu413/uec_credit)の開発者 ru様、ソース再利用の許可を頂きありがとうございました。
+- "UEC_GPAfilter"( https://github.com/ruu413/uec_credit )の開発者 ru様、ソース再利用の許可を頂きありがとうございました。
