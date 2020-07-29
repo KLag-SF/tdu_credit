@@ -1,4 +1,4 @@
-# UEC_GPAfilter
+# TDU_GPAfilter
 
 - Unipaの成績照会からD評価の単位を見えなくする拡張機能
 
